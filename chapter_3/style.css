@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 1px 0 0 25px;
+    background-color: black;
+    color: white;
+    
+}
+.main{
+    padding: 1px;
+    display: flex;
+    height: 88vh;
+
+}
+.red{
+    padding: 1px;
+    background-color: red;
+    border: 2px solid blue;
+}
+
+.green{
+    
+    padding: 1px;
+    background-color: green;
+    border: 2px solid orange;
+}
+footer{
+    padding: 5px 0 0 0;
+    background-color: rgb(153, 105, 47);
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+    text-transform: uppercase;
+}
